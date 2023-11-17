@@ -1,1 +1,1 @@
-# cmsc508-fa2023-hw7-template
+This is assignment 7, a resume database for a company. The database was made by Nathan DeVore and contains useful information about employees, their skills, and the roles they have in the company. The qmd file is a quarto renderable file that will render to an html file with sample data and a crow's foot diagram of the database. Date completed 2023-11-16. There is no .env included. 
